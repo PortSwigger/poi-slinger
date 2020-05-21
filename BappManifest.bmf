@@ -1,0 +1,12 @@
+Uuid: 631785c4cb4147feb5fdbf272f80f30c
+ExtensionType: 1
+Name: PHP Object Injection Slinger
+RepoName: poi-slinger
+ScreenVersion: 1.2
+SerialVersion: 5
+MinPlatformVersion: 0
+ProOnly: False
+Author: Ricardo Almeida
+ShortDescription: Designed to help you find PHP Object Injection vulnerabilities on popular PHP Frameworks.
+EntryPoint: build/libs/poi-slinger-all.jar
+BuildCommand: gradle fatJar

@@ -4,6 +4,9 @@ repositories {
     mavenCentral()
 }
 
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
 dependencies {
     compile 'org.apache.clerezza.ext:org.json.simple:0.4'
     compile 'net.portswigger.burp.extender:burp-extender-api:2.1'
